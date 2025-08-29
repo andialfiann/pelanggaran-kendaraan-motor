@@ -11,7 +11,7 @@ import google.generativeai as genai
 # ==============================================================================
 # FUNGSI MEMUAT MODEL
 # ==============================================================================
-def load_yolo(model_path="best6.pt"):
+def load_yolo(model_path="Deployment/best6.pt"): # Tambahkan "Deployment/"
     """Memuat model deteksi YOLO."""
     return YOLO(model_path)
 
