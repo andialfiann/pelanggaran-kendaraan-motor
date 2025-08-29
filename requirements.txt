@@ -10,5 +10,6 @@ opencv-python-headless
 scikit-learn
 transformers
 datasets
-Pillow
+pillow
 google-generativeai
+python-dotenv
