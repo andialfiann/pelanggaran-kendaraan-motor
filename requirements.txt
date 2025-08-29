@@ -1,3 +1,4 @@
+streamlit
 roboflow
 ultralytics
 plotly
@@ -10,5 +11,4 @@ scikit-learn
 transformers
 datasets
 Pillow
-ngrok
 google-generativeai
