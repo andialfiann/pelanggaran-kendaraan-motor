@@ -11,3 +11,4 @@ transformers
 datasets
 Pillow
 ngrok
+google-generativeai
