@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['Exp-Date', 'Helmet', 'License-Plate', 'Non-Helmet', 'Side-Mirror']
+
+roboflow:
+  workspace: proposal-wmasr
+  project: skripsi-oysdf
+  version: 6
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/proposal-wmasr/skripsi-oysdf/dataset/6
